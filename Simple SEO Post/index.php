@@ -4,7 +4,7 @@ Plugin Name: Simple SEO Post
 Description: A plugin to add SEO fields (meta title, description, and keywords) to posts.
 Version: 1.1
 Author: Sergey Muzharovsky
-Author URI: https://sergeymuzharovsky.com | https://sergeydev.com
+Author URI: https://sergeymuzharovsky.com
 */
 
 // Добавляем метабокс для SEO полей
